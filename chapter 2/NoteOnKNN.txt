@@ -1,0 +1,11 @@
+# There are 2 important parameter to the Kneighbors classifier : 
+	1. no . of neighbors 
+	2. distance between data points 
+
+# In practise using small number of neighbors like 3 to 5 works well , but not every case . 
+
+# One of the strengths of kNN is that model is very easy to understand , and often gives resonable performance without a lot of adjustments 
+
+# Building nearest neighbors model is very fast but hwne the training set is very large prediction will be very slow . 
+
+# KNN will not work well on datasets with many features (hundreds or more) . 
